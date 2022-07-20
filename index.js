@@ -1,5 +1,5 @@
 
-function calc(){
+function calcPotT4(){
     let herbT4 = 2000;
     let herbT3 = 1000;
     let i =0;
